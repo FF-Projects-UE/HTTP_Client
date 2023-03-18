@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HTTP_Client.cpp.obj": [
+			"HTTP_Client.init.gen.cpp.obj",
+			"HTTP_ClientBPLibrary.gen.cpp.obj",
+			"HTTP_Client.cpp.obj",
+			"HTTP_ClientBPLibrary.cpp.obj"
+		]
+	}
+}
