@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-HTTP_Client.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Intermediate\Build\Win64\FF_PluginsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Module.HTTP_Client.cpp.obj"
-"D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Default.rc2.res"
-/OUT:"D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\UnrealEditor-HTTP_Client.lib"
+"E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Intermediate\Build\Win64\FF_Plugins_MobileEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Module.HTTP_Client.cpp.obj"
+"E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Default.rc2.res"
+/OUT:"E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\UnrealEditor-HTTP_Client.lib"

@@ -1,6 +1,6 @@
-D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Module.HTTP_Client.cpp
+E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Module.HTTP_Client.cpp
 /I .
-/I D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Source\HTTP_Client\Private
+/I E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Source\HTTP_Client\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -273,9 +273,9 @@ D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Intermediate\Build\W
 /I ..\Plugins\JsonBlueprintUtilities\Intermediate\Build\Win64\UnrealEditor\Inc\JsonBlueprintUtilities\UHT
 /I ..\Plugins\JsonBlueprintUtilities\Source
 /I ..\Plugins\JsonBlueprintUtilities\Source\JsonBlueprintUtilities\Public
-/I D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Inc\HTTP_Client\UHT
-/I D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Source
-/I D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Source\HTTP_Client\Public
+/I E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Inc\HTTP_Client\UHT
+/I E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Source
+/I E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Source\HTTP_Client\Public
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
@@ -285,12 +285,12 @@ D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Intermediate\Build\W
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Intermediate\Build\Win64\FF_PluginsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Definitions.HTTP_Client.h"
-/Yu"D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Intermediate\Build\Win64\FF_PluginsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Intermediate\Build\Win64\FF_PluginsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Module.HTTP_Client.cpp.obj"
-/sourceDependencies D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Module.HTTP_Client.cpp.dep.json
+/FI"E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Intermediate\Build\Win64\FF_Plugins_MobileEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Definitions.HTTP_Client.h"
+/Yu"E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Intermediate\Build\Win64\FF_Plugins_MobileEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Intermediate\Build\Win64\FF_Plugins_MobileEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Module.HTTP_Client.cpp.obj"
+/sourceDependencies E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Module.HTTP_Client.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

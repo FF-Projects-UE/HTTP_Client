@@ -33,9 +33,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Intermediate\Build\Win64\FF_PluginsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Module.HTTP_Client.cpp.obj"
-"D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Default.rc2.res"
+"E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Intermediate\Build\Win64\FF_Plugins_MobileEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Module.HTTP_Client.cpp.obj"
+"E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
@@ -69,7 +69,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Binaries\Win64\UnrealEditor-HTTP_Client.dll"
-/IMPLIB:"D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\UnrealEditor-HTTP_Client.suppressed.lib"
-/PDB:"D:\Epic\Projects\FROZEN\SDKs\FF_Plugins\Plugins\HTTP_Client\Binaries\Win64\UnrealEditor-HTTP_Client.pdb"
+/OUT:"E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Binaries\Win64\UnrealEditor-HTTP_Client.dll"
+/IMPLIB:"E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Intermediate\Build\Win64\UnrealEditor\Development\HTTP_Client\UnrealEditor-HTTP_Client.suppressed.lib"
+/PDB:"E:\Epic\Projects\FROZEN\SDKs\FF_Plugins_Mobile\Plugins\HTTP_Client\Binaries\Win64\UnrealEditor-HTTP_Client.pdb"
 /ignore:4078
