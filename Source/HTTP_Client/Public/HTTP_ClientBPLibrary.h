@@ -55,4 +55,7 @@ class UHTTP_ClientBPLibrary : public UBlueprintFunctionLibrary
 	UFUNCTION(BlueprintCallable, meta = (DisplayName = "HTTP Client - Get", Keywords = "pdf, pdfium, library, http, web, url, get"), Category = "FF_HTTP|Client")
 	static void HTTP_Client_Get(FHttpClientGet DelegateClientGet, FString In_URL, FString ContentType = "application/pdf");
 
+	UFUNCTION(BlueprintCallable, meta = (DisplayName = "Send Email", Keywords = "pdf, pdfium, library, http, web, url, get"), Category = "FF_HTTP|Client")
+	static void Send_Email(FString TargetMail, FString Cc, FString Bcc, FString Subject, FString Content, FString Sender, FString Password, FString SMTP, int32 Port, TArray<uint8> Attachment);
+
 };
